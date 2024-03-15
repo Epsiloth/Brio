@@ -10,9 +10,9 @@
         "RepoUrl": "https://github.com/Epsiloth/Brio",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/Etheirys/Brio/releases/download/v0.2.3.0/Brio.zip",
-        "DownloadLinkTesting": "https://github.com/Etheirys/Brio/releases/download/v0.2.3.0/Brio.zip",
-        "DownloadLinkUpdate": "https://github.com/Etheirys/Brio/releases/download/v0.2.3.0/Brio.zip",
+        "DownloadLinkInstall": "https://github.com/Epsiloth/Brio/releases/download/v0.0.0.1/Brio.zip",
+        "DownloadLinkTesting": "https://github.com/Epsiloth/Brio/releases/download/v0.0.0.1/Brio.zip",
+        "DownloadLinkUpdate": "https://github.com/Epsiloth/Brio/releases/download/0.0.0.1/Brio.zip",
         "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
         "Tags": [ 
             "npcs",
