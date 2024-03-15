@@ -1,13 +1,13 @@
 [
     {
         "Author": "Asgard, Minmoose and Contributors",
-        "Name": "Brio",
-        "Punchline": "Enhanced GPosing.",
-        "Description": "Control actors during GPose sessions.",
+        "Name": "Brio - NPC Edition",
+        "Punchline": "NPC Spawning.",
+        "Description": "Clone yourself around the world. Use Glamourer to change them to your liking!",
         "InternalName": "Brio",
-        "AssemblyVersion": "0.2.3.0",
-        "TestingAssemblyVersion": "0.2.3.0",
-        "RepoUrl": "https://github.com/Etheirys/Brio",
+        "AssemblyVersion": "0.0.0.1",
+        "TestingAssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/Epsiloth/Brio",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "DownloadLinkInstall": "https://github.com/Etheirys/Brio/releases/download/v0.2.3.0/Brio.zip",
@@ -15,10 +15,9 @@
         "DownloadLinkUpdate": "https://github.com/Etheirys/Brio/releases/download/v0.2.3.0/Brio.zip",
         "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
         "Tags": [ 
-            "gpose",
+            "npcs",
             "brio",
-            "posing",
-            "animation"
+            "spawning"
         ]
     }
 ]
