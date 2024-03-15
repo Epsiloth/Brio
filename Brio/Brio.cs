@@ -70,7 +70,7 @@ public class Brio : IDalamudPlugin
 
                 // Trigger GPose events to ensure the plugin is in the correct state
                 Brio.Log.Debug($"Triggering initial GPose state...");
-                _services.GetRequiredService<GPoseService>().TriggerGPoseChange();
+                // _services.GetRequiredService<GPoseService>().TriggerGPoseChange();
 
                 Log.Info($"Started {Name} in {stopwatch.ElapsedMilliseconds}ms");
             }
