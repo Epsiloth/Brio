@@ -1,23 +1,30 @@
 [
     {
         "Author": "Asgard, Minmoose and Contributors",
-        "Name": "Brio - NPC Edition",
-        "Punchline": "NPC Spawning.",
-        "Description": "Clone yourself around the world. Use Glamourer to change them to your liking!",
+        "Name": "Brio",
+        "Punchline": "Enhanced GPosing.",
+        "Description": "Control actors during GPose sessions.",
         "InternalName": "Brio",
         "AssemblyVersion": "0.0.0.1",
         "TestingAssemblyVersion": "0.0.0.1",
-        "RepoUrl": "https://github.com/Epsiloth/Brio",
+        "RepoUrl": "https://github.com/Etheirys/Brio",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
+<<<<<<< HEAD
         "DownloadLinkInstall": "https://github.com/Epsiloth/Brio/releases/download/v0.0.0.1/Brio.zip",
         "DownloadLinkTesting": "https://github.com/Epsiloth/Brio/releases/download/v0.0.0.1/Brio.zip",
         "DownloadLinkUpdate": "https://github.com/Epsiloth/Brio/releases/download/0.0.0.1/Brio.zip",
+=======
+        "DownloadLinkInstall": "https://github.com/Etheirys/Brio/releases/download/v0.0.0.1/Brio.zip",
+        "DownloadLinkTesting": "https://github.com/Etheirys/Brio/releases/download/v0.0.0.1/Brio.zip",
+        "DownloadLinkUpdate": "https://github.com/Etheirys/Brio/releases/download/v0.0.0.1/Brio.zip",
+>>>>>>> c6a1fed9477f38aa3928bd74bcc626007181d224
         "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
         "Tags": [ 
-            "npcs",
+            "gpose",
             "brio",
-            "spawning"
+            "posing",
+            "animation"
         ]
     }
 ]
